@@ -17,3 +17,5 @@ Although modern frontier LLMs are capable to understand machine code and provide
 - Split into distinct blocks capable for AI analysis
 - Prepare supporing AGENTS.md and other memories for LLM coding agents
 - Trigger LLM coding agents to write high quality portable C
+- Build executable on a new platform
+- Tests and verifications, iterate if needed
